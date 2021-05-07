@@ -25,10 +25,10 @@ Users should be able to:
 ### Screenshot
 
 ![](images/website.png)
-
+![](images/website-vertical.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://saliou1920.github.io/Card-Component-Challenge/)
 
 
 ### Built with
