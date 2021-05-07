@@ -28,7 +28,7 @@ Users should be able to:
 ![](images/website-vertical.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://saliou1920.github.io/Card-Component-Challenge/)
+- Live Site URL: [Here](https://saliou1920.github.io/Card-Component-Challenge/)
 
 
 ### Built with
